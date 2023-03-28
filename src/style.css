@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+  --brand-green: #04b500;
+  --brand-blue: #0689b0;
+
+}
+
+html{
+  font-size: 62.5%;
+}
+
+body,
+.app {
+  min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
